@@ -13,6 +13,7 @@
 #include "Error.h"
 #include "datatypes.h"
 #include <iso646.h>
+#include <tgmath.h>
 
 using namespace std;
 using namespace std::placeholders;

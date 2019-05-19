@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Assembly_Interpreter"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/samar1738/Documents/Assembly-Interpreter/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/samar1738/Documents/Assembly-Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/samar1738/Documents/Assembly-Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/samar1738/Documents/Assembly-Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/samar1738/Documents/Assembly-Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/samar1738/Documents/Assembly-Interpreter/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/samar1738/Documents/Assembly-Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/samar1738/Documents/Assembly-Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/samar1738/Documents/Assembly-Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/samar1738/Documents/Assembly-Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assembly_Interpreter">
+				<Option output="/home/samar1738/Documents/Assembly-Interpreter/cmake-build-debug/Assembly_Interpreter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/samar1738/Documents/Assembly-Interpreter/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/samar1738/Documents/Assembly-Interpreter/."/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/samar1738/Documents/Assembly-Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assembly_Interpreter"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/samar1738/Documents/Assembly-Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/samar1738/Documents/Assembly-Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/samar1738/Documents/Assembly-Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assembly_Interpreter/fast">
+				<Option output="/home/samar1738/Documents/Assembly-Interpreter/cmake-build-debug/Assembly_Interpreter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/samar1738/Documents/Assembly-Interpreter/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/samar1738/Documents/Assembly-Interpreter/."/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/samar1738/Documents/Assembly-Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assembly_Interpreter/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/samar1738/Documents/Assembly-Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/samar1738/Documents/Assembly-Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/samar1738/Documents/Assembly-Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/samar1738/Documents/Assembly-Interpreter/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/samar1738/Documents/Assembly-Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/samar1738/Documents/Assembly-Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/samar1738/Documents/Assembly-Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/samar1738/Documents/Assembly-Interpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/samar1738/Documents/Assembly-Interpreter/Compiler.h">
+			<Option target="Assembly_Interpreter"/>
+		</Unit>
+		<Unit filename="/home/samar1738/Documents/Assembly-Interpreter/Constants.h">
+			<Option target="Assembly_Interpreter"/>
+		</Unit>
+		<Unit filename="/home/samar1738/Documents/Assembly-Interpreter/Error.h">
+			<Option target="Assembly_Interpreter"/>
+		</Unit>
+		<Unit filename="/home/samar1738/Documents/Assembly-Interpreter/Instructions.h">
+			<Option target="Assembly_Interpreter"/>
+		</Unit>
+		<Unit filename="/home/samar1738/Documents/Assembly-Interpreter/Register.h">
+			<Option target="Assembly_Interpreter"/>
+		</Unit>
+		<Unit filename="/home/samar1738/Documents/Assembly-Interpreter/Source.cpp">
+			<Option target="Assembly_Interpreter"/>
+		</Unit>
+		<Unit filename="/home/samar1738/Documents/Assembly-Interpreter/datatypes.h">
+			<Option target="Assembly_Interpreter"/>
+		</Unit>
+		<Unit filename="/home/samar1738/Documents/Assembly-Interpreter/functions.h">
+			<Option target="Assembly_Interpreter"/>
+		</Unit>
+		<Unit filename="/home/samar1738/Documents/Assembly-Interpreter/interfaces.h">
+			<Option target="Assembly_Interpreter"/>
+		</Unit>
+		<Unit filename="/home/samar1738/Documents/Assembly-Interpreter/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

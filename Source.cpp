@@ -2,7 +2,7 @@
 #include<functional>
 #include <vector>
 #include<string>
-#include<conio.h>
+//#include<conio.h>
 
 #include "Compiler.h"
 #include "functions.h"
@@ -27,6 +27,6 @@ int main()
 	}
 	while (!isHLT);
 
-	while (_getch() != 13);
+	//while (_getch() != 13);
 	return 0;
 }
